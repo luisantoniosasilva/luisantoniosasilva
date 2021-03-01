@@ -9,4 +9,5 @@
 
 Find me on LinkedIn:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-antonio-soares-37742a165)](https://www.linkedin.com/in/luis-antonio-soares-37742a165) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/clevsampaio)](https://github.com/luisantoniosasilva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-antonio-soares-37742a165)](https://www.linkedin.com/in/luis-antonio-soares-37742a165)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/clevsampaio)](https://github.com/luisantoniosasilva)
