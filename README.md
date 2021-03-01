@@ -1,13 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">, I'm [Luis Antonio Soares!]((https://github.com/luisantoniosasilva?tab=repositories))
 
-### I'm Luis Antonio Soares
-
-- 🔭 I’m currently working at Cubos Tecnologia as a QA. 
-- 🌱 I’m currently learning about Cypress. 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=luisantoniosasilva&show_icons=true&hide=[%22prs%22,%22issues%22])
-
-Find me on LinkedIn:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-antonio-soares-37742a165)](https://www.linkedin.com/in/luis-antonio-soares-37742a165)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/clevsampaio)](https://github.com/luisantoniosasilva)
+- 🔭 I’m currently working at [Cubos Tecnologia](https://cubos.io) as a **QA Analyst**. 
+- 🌱 I’m currently learning and loving Cypress. 
+- 
+### Where to find me:
+[![Medium Badge](https://img.shields.io/badge/-@luisantoniosasilva-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@luisantoniosasilva)](https://medium.com/@luisantoniosasilva)
+[![Linkedin Badge](https://img.shields.io/badge/-luisantoniosoares-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-antonio-soares-37742a165/)](https://www.linkedin.com/in/luis-antonio-soares-37742a165/)
+[![Gmail Badge](https://img.shields.io/badge/-luisantoniosasilva-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luisantoniosasilva@gmail.com)](mailto:luisantoniosasilva@gmail.com)
+<br />
