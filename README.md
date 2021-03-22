@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">, I'm [Luis Antonio Soares!]((https://github.com/luisantoniosasilva?tab=repositories))
 
-- 🔭 I’m currently working at [Cubos Tecnologia](https://cubos.io) as a **QA Analyst**. 
+- 🔭 I’m currently working as a **QA Analyst**. 
 - 🌱 I’m currently learning and loving Cypress. 
 
 ### Where to find me:
