@@ -1,7 +1,6 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">, I'm [Luis Antonio Soares!]((https://github.com/luisantoniosasilva?tab=repositories))
+### Hi there, I'm [Luis Antonio Soares!]((https://github.com/luisantoniosasilva?tab=repositories))
 
 - 🔭 I’m currently working as a **QA Analyst**. 
-- 🌱 I’m currently learning and loving Cypress. 
 
 ### Where to find me:
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@luisantoniosasilva)](https://medium.com/@luisantoniosasilva)
