@@ -1,9 +1,7 @@
-### Hi there, I'm [Luis Antonio Soares!]((https://github.com/luisantoniosasilva?tab=repositories))
+### Olá, mundo! 👋 Eu sou Luis Antonio Soares!
 
-- 🔭 I’m currently working as a **QA Analyst**. 
+🔭 Sou um QA.
 
-### Where to find me:
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@luisantoniosasilva)](https://medium.com/@luisantoniosasilva)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-antonio-soares-37742a165/)](https://www.linkedin.com/in/luis-antonio-soares-37742a165/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luisantoniosasilva@gmail.com)](mailto:luisantoniosasilva@gmail.com)
-<br />
+🌱 Tenho habilidades em testes funcionais e automatizados. Adoro explorar novas tecnologias e ferramentas para melhorar a eficiência e eficácia dos testes.
+
+📫 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/luis-antonio-soares-37742a165/) ou por [e-mail](mailto:luisantoniosasilva@gmail.com).
